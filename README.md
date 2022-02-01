@@ -4,7 +4,7 @@ Hello guys dont use this all  your illegal activities
 
 
 
-    git clone git clone https://github.com/tgargg/Instagram-web__zclones
+    git clone https://github.com/tgargg/Instagram-web__zclones
 The installing 👆👆
 
     ls
@@ -30,3 +30,5 @@ Now launching the main thing  the python coded
 YouTube link visit guys https://youtube.com/channel/UCDumKZEFhUbm8CWP0uc4wHg
 
 Social link https://instagram.com/th4run_?utm_medium=copy_link
+
+
