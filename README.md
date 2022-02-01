@@ -18,6 +18,11 @@ Once again let's see it as launched or what
 
     ls
 
+It is going to ask u permission 
+
+     Chmod +x Insta-pussing.sh
+
+
 Now launching the main thing  the python coded 
 
     ./Insta-pussing.sh
